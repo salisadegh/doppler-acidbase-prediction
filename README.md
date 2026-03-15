@@ -67,11 +67,3 @@ Each script saves its outputs to `results/` and `figures/`. Scripts are designed
 ## Key Dependencies
 
 See `requirements.txt`. Core packages: scikit-learn 1.4.0, numpy 1.26, pandas 2.2, scipy 1.12, matplotlib 3.8, seaborn 0.13.
-
----
-
-## Reporting Standards
-
-This study was reported in accordance with TRIPOD+AI (Collins et al., BMJ 2024) and PROBAST. The TRIPOD+AI checklist is provided as Additional file 2 in the manuscript.
-
-
