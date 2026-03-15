@@ -34,7 +34,7 @@ The de-identified analysis dataset is available in `data/` as CSV files:
 
 - `clean_primary.csv` — development cohort (N=222; Soft-cleaned primary dataset)
 - `clean_strict.csv` — development cohort (N=222; Strict-cleaned; identical to primary)
-- `external_validation.csv` — external validation cohort (N=82)
+
 
 **Variable names** are defined in `data/schema.md`.
 
